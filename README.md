@@ -11,6 +11,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Clojure](#clojure)
 - [Elixir](#elixir)
 - [Erlang](#erlang)
+- [F#](#f)
 - [Go](#go)
 - [Haskell](#haskell)
 - [HTML/CSS](#html-and-css)
@@ -106,6 +107,15 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 4 - libuv](https://eli.thegreenplace.net/2017/concurrent-servers-part-4-libuv/)
   - [Part 5 - Redis case study](https://eli.thegreenplace.net/2017/concurrent-servers-part-5-redis-case-study/)
   - [Part 6 - Callbacks, Promises and async/await](https://eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyncawait/)
+ 
+- MQTT Broker from scratch
+  - [Part 1 - The protocol](https://codepr.github.io/posts/sol-mqtt-broker)
+  - [Part 2 - Networking](https://codepr.github.io/posts/sol-mqtt-broker-p2)
+  - [Part 3 - Server](https://codepr.github.io/posts/sol-mqtt-broker-p3)
+  - [Part 4 - Data structures](https://codepr.github.io/posts/sol-mqtt-broker-p4)
+  - [Part 5 - Topic abstraction](https://codepr.github.io/posts/sol-mqtt-broker-p5)
+  - [Part 6 - Handlers](https://codepr.github.io/posts/sol-mqtt-broker-p6)
+  - [Bonus - Multithreading](https://codepr.github.io/posts/sol-mqtt-broker-bonus)
 
 ### OpenGL:
 
@@ -150,6 +160,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [ChatBus : build your first multi-user chat room app with Erlang/OTP](https://medium.com/@kansi/chatbus-build-your-first-multi-user-chat-room-app-with-erlang-otp-b55f72064901)
 - [Making a Chat App with Erlang, Rebar, Cowboy and Bullet](http://marianoguerra.org/posts/making-a-chat-app-with-erlang-rebar-cowboy-and-bullet.html)
+
+## F#:
+
+- [Write your own Excel in 100 lines of F#](http://tomasp.net/blog/2018/write-your-own-excel)
 
 ## Java:
 
